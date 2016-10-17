@@ -8,5 +8,4 @@ public class Questao {
 	String alternativaD;
 	String alternativaE;
 	String resposta;
-	
 }
